@@ -173,7 +173,7 @@ Indicar al menos 2 analitos moleculas peptidos proteinas que presnetan varacione
 que es y para que sirve calcular el valor predictivo positive y el valor predictivo negativo
 
 
-##Clase 4
+## Clase 4
 
 El sistema inmune tiene 3 grandes funciones:
 
@@ -378,7 +378,7 @@ para un test de detección de VIH cual debería ser la sensibilidad o el VPP jus
  cual debe ser la sensibilidad y el valor predictivo positivo y que tal la especificidad o el valor predictivo negativo.
 
 
-# Clase 5
+## Clase 5
 
 Examenes mas comunes GLicemia
 
@@ -544,52 +544,3 @@ la enfermedad renal (se muestran todos aumentados BUN Crea
 Los valores bajos están relacionados con dietas bajas en proteínas y falla renal fatal
 
 Cuando los valores entre creatinina y BUN en sangre no son coherentes en cuanto a BUN o creatinina el ensayo esta mal hecho y el laboratorio esta en problemas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
