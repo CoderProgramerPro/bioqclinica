@@ -544,3 +544,199 @@ la enfermedad renal (se muestran todos aumentados BUN Crea
 Los valores bajos están relacionados con dietas bajas en proteínas y falla renal fatal
 
 Cuando los valores entre creatinina y BUN en sangre no son coherentes en cuanto a BUN o creatinina el ensayo esta mal hecho y el laboratorio esta en problemas
+
+# clase 6
+
+Fosfatasa alcalina en alcoholismo los niveles estan aumentadas
+cancer de prostata, oseo
+celstasis
+curacion fracturas oseas
+enfermedades hepaticas
+
+Niveles bajos de la fosfatasa es desnutricion y deficiencia de proteinas
+
+las transaminasas GOT 
+tambien llamada AST en altas concentraciones en el corazon, higado y musculos 
+cuando esta alta la enzima se libero desde el corazon musculos o higado valores de referencia 5-32 U/L 
+
+los niveles altos de GOT se ven en alcoholismo daño hepatico trauma muscular e infarto
+
+los niveles disminuidos de got beriberi cetoacidosis diabertica  embarazo y problemas renales
+
+beriberi es una enfermedad por deficid de vitamina B1 tiamina generalmente asociada al alcoholismo en lugar de una dieta deficiente en B1
+
+GPT transaminasa glutamica pruvica esta es una enzima en gran concentracion en el higado en menor medid riñones corazon y musculos estos niveles se ven
+aumentados en problemas hepaticos
+
+GGT gamma glutamil transaminasa ezima de origen hepatico que participa en la transferencias de aminoacidos atrabez de la membrana celular se encuentra en el higado 
+y en las vias biliares y se usa para evaluar estado higado en tratamiento contra cirrosis. Tambien se ve con cantidades diferentes en hombres y mujeres
+
+La bilirrubina viene del grupo hem de la hemoglobina (hem-biliverdina-bilirrubina) y es procesada y conjugada en el higado le da color cafe a las heces 
+cuando la bilirrubina esta alta la piel tejidos toman un color amarilloque se llama ictericia
+bilirrubina se puede aumentar o disminuir segun los medicamentos, que se toman .
+Cuando se disminuyen los niveles con barbituricos cafeina y penicilina 
+el analisis se interfiere por hemolisis contenidos de lipidos y la luz 
+
+bilirrubina directa o conjugada 
+bilirrubina indirecta o no conjugada
+bilirrubina total
+
+hemoglobina cuando es destruida se divide en CO biliverdina y Fe+2 la biliverdina reducatasa lo transfomra en bilirrubina no conjugada (insoluble que con la ayuda de albumina llega al higado) en el higado se procesa
+
+los calculos de 
+
+los niveles aumentados de no conjugada indirecta anemia hemolitica, ictericia fisiologica del recien nacido otras anemias resolucion de un gran hematoma, como de un
+choque de autos
+
+los niveles aumentados de bilirrubina conjugada se encuentra en cirrosis hepatistis obstruccion biliar tumores de vias biliares
+
+## Tarea
+que analitos estan alerados
+en un paciente con gran hematoma pplitraumatizado con hepatitis A y con anemia hemolitica, (cada uno por separado)
+
+Caso clnico paciente mujer de 42 años con dolor en la boca del estomago, viadil forte y ketorolaco cada 8 horas
+paciente vueleve a consultar ya que el dolor persiste se solicita examenes de laboratorio ecografica abdominal
+
+Se sospecha de ulceras
+colon irritable 
+calculos biliares, o reflujos
+
+se sabe que segun examenes el problema es hhepatico
+
+segun imagenes signos ecograficos se muestra que tiene calculos biliares mopviendose, calculos renales e higado graso. S e puede pedir adicionalmente Creatinina  y 
+perfil lipidico
+
+El electrocardiograma es uno de los metodos para seleccionar un tratamiento pero no es sensible y solo detecta 50 al 60% de los enfermos con infarto agudo al miocardio 15% puede mostrar electrocardiograma normal
+
+Las limitaciones de los marcadores bioqumicos actuales incluyen la falta de precision en el diagnositoc en el tiempo requerido despues de la presentacion para que los marcadores sean capaces de determinar un IAM y la habilidad de identificar a pacientes con angina inestable
+
+Creatinina kinasa y su isoenzima mipcardica son comuinmente utilizadas para evaluar daño miocardico se mide unidades por litro 
+las desventajas incluyen al tiempo transcurrido del inicio de los sintomas al momento de su determinación 
+
+CK CK MB comienzan a elevarse a 6 horas del daño cardiaco y su nivel maximo se alcanza dentro del periodo de 10 a 18 horas la ck total se eleva dentro de las 6 a 12 horas por lo tatnto se busco otrA MANERA
+en vez de medir actividad enzimatica se mide cantidad de enzima, se usa un anticuerpo monoclonal capaz de medir conta ckMB mostrando resultados como subforma pero sus resultados son mas arapdios apareciendo a las 2 horas
+
+mioglobina y troponinas
+
+La mioglobina es una proteina pequeña presente en musculo esqueletico y miocardio usada para deteccion temprana de IAM ya que los niveles plasmaticos de mioglobina pueden ser elevados dentro de las primeras dos horas de haber iniciado los sintomas tambien decae rapidamente
+
+troponinas estan localizadas sobre el filamento delgado del aparato ocntracticl
+
+troponinas son esepcidfias son rapidas y hace seguimiento del infarto despues del tratamiento con anticoagulannees troponina I y troponina T tienen la misma tendencia, CK no sirve de nada mioglobina y 
+diagnostigo bueno del infarto puede ser hecho con un electrocardiograma con una sensibilidad de 64% y especificidad de 100 y con  troponina con esps. 94% y sens 100%
+
+Perfil pancreatico amilasa y lipasa, pancreas dañado es pancreatitis donde se comienza a degradar el pancreas generando una inflamacion en el pancreas donde este se autodigiere
+
+sintomas dolor en zona abdominal que se extiende a la espalda que empeora despues de comer fiebre taquicardia nauseas vomitos dolor con la palpacion al tocarse el abdomen
+
+los signos y sintomas de pancreatitis estan relacionados con el triglicerido alto
+
+amilasa catalizan la degradacaion de hidratos de carbono estas enzimas estan en muchos organos. Por lo tanto no es una enzima especifica del pancreas. 
+valores de refeercnia van de 28 a 100 u/L
+
+La lipasa se define como triglicerido hidrolasa es un marcador especifico de pancreas alcanza maximo en 24 horas y se usa para diagnosticar pancreatitits, amilasa se usa para saber que tan grande es el daño
+
+electrolitos plasmaticos se usa sangre total y se mide en electrodos especificos. principal cation intracelilar solo 2% del potasion es extracelular, los valores normales son de 3-5 Meq/L en hombres y mujeres la ditea contiene normalente harto potasio y entre 80% del potasio se reabsorbe, la gente que tiene problemas y no le dan ahorradores de potasio al paciente le dan calambres
+
+Causas de hiperkalemia suplementos de potasio infusion rapida redistricubicon de K hemolisis masiva, daños tisulares severos anorexia nerviosa y entre otras 
+l
+la hipokalemia se genera ppor disminuciopn de intake
+
+Sodio se aumenta por ingestion excesiva de sodio por via oral o via venosa las hipoatremia es sudor prolognado diureticos dietas
+
+cloro el gran anion se dirige en la misma direccion que el sodio la eliminacion de cloro son por vomitos y otros
+
+bicarbonato, viene del acido carbonico y produce la formacion de CO2
+
+paciente 27 años consulta en ugerncia por vomitos caracteristica intenso y conimio dolor de esofago y estomago diarrea clamabre pies pantorreas cefalea el medioco de urgencia solicita electrolitos plasmaticos glicemia BUN creatina paratitologico de deposisicone s y coprocultovps 
+resultas que todos los examenes indican infeccion pero en realidad los examenes post mortem mostrraron negativo infeccion
+ARSENICO
+
+
+NIveles de calcio se requiere ayuna de 6 horas se usa un tubo sin anticoagulante niveles aumentados de clacio hiper paratiroidismo hipertiroidismo y metastasis osea, niveles disminuidos de calcio son deficiencias de vitamina D, falla renal hipo paratiroidisomo tiroidectomia total por un tiempo breve y la malaabsorcion intestinal
+
+Calcio los valores menores a 6 mg/dl pueden causar tetania contracciones dolorosas de los musculos de las extremidades que necesitan clacio 
+
+valores cercanos a 7 se producen calambres severos se debe administar calcio por via intravenosa u oral efecto adverso comun en la tiroidectomia total
+los valores sobre la 12 mg/dl se considera medica ya que pueden causar paro cardiaco y coma
+
+fosforo el 88% del fosforo endogeno se encuentra en los huesos los valores de referencia son bajos y se requiere ayuna de 6 horas se usa tubo sin anticoagulantes
+
+valores aumentados de fosforo es insuficiencia renal cronica hipercatabolismo en cuadros con acidosis lactica, 
+vitamina D sintetizada en la piel cuando nos exponemos a la radiacion UVB a partir de provitamina D metabolizada en el gigado y luego en el riñon donde se produce la forma activa llamada dihidroxivitamina d
+
+fuentes de vitamina D el salmon, caballa, trucha sardina, yema de huevo, queso setas y alimentos enriquecidos en vitamina D en otros paises como la leche y mantequilla en chile se usan alimentos enriquecidos en vitamina D en los grupos de riesgo niños y adultos mayores
+
+otras funcuines aumentan absorcion de calcio es potente modulador de sistema inmune, tambien se afecta respuesta inmune los monocitos 
+
+tambien se alteran a niveles de diabetes tipo 2 y regulacion sanguinea la producciond e vitamina D se inicia mediante la epimerizacion de c3 del anillo a donde el hidroxilo c3 cambia posicion b a su posicion a quedando inactivo
+
+metodos para medir vitamina d se detecta 25 oh vitamina D el gold standard es HPLC/UPLC asociada a espectrometria de maasa en tandem 
+
+tambien se puede hacer inmuinoensayos por quimioluniciencia o eclia LA DESVENTAJA DE ESTOS SON QUE ALGUNOS TIENE REACCION CRUZADA CON LOS EPIMEROS DE VITAMINA D
+LOS VALORES de vitamina D en chile son bajos, 
+
+magnesio la determinacion se hace por espectrometria de absorcion atomica la determinacion se basa en la reaccion de magnseio con azul de xildil en solucion alcalnina que contiene EGTA para enmascarar el calcio, EGTA es un quelante especifico del calcio, dejando magnesio como unico cation
+la disminuciion de magnesio 
+
+los aumentos de magnseiso puede ser excresion renal alterada y por exceso de consumo de  mg
+
+en el amonio que viene de los esqueletos hidrocarbonados de los aminoacidos se mide por insuficiencia alimentaraia
+exiten dos tipos tipo I efecto en carbamoil fosfato sintasa I y tip II defetco en otra enzima ornitina 
+
+independiente al origen
+los sinotmas son vision borroza 
+ataxia irratibilidad vomito
+esto es mas comun en los neonatos y dificil de detectar, es facil confundirla con una guagua mañosa
+disgnositoc son niveles elevados de amonio en sangre y orina la determinacion se realiza con pacientes dos horas post desayuno liviano tubo con EDTA como anticoagulante se debe transportar en baño de hielo inmediatamente al lab
+
+los niveles normales son 25.94 ug 19 y 8y algo en mujers
+
+lactatola causa comun de niuveles aumentados de piruvato y lactato sanguineo es la anoxia secundaria a neumonia e insuficiencioa cardiaca congestiba no llega oxigeno a los pulmones
+la muestra debe tomarse sin ligadura se debe transportar en hielo y ser centrifugada a 4°C maximo a las dos horas de haber sido tomasdas
+en pacientes en caso critico el lactato suslee presentarse en  niveles altos
+
+insuficiencia cardiaca enfermedad pulmonar neumonia e infeccion grave que afecta todo el cuerpo determinacion de farmacos 
+
+los farmacos en la sangre no son comunes, se ponen anticonvulsivantes  inmunosupresores drogras de abuso otros farmacos paracetamol vancomicina digoxina determinacion de inmunogenicidad medicamentos biologicos elisa con deteccion por fluorescencia 
+nefelometria i nmunocromatografias screening tamizaje y para el gold standard se usa HPLC ms
+
+el metabolismo de hierro, se necestia fierro +2 para la vida pero el naturalemente disponible es +3 los niveles de hjierro en el organismo bajos pueden ser por el consumo de dieta la alteracion de su absorcion intestinal aumento en consumo o hemorragias
+
+cuando necesitamos en niños infantes adolecentes embarazos
+
+factores negativos son taninos fosfatos los taninos estan en las infusiones
+si falta hierro es anemia u otras cosas como bajo consumo de perdidas de sangre cronicas niños en crecimineto desnutricion embbarazo
+
+niveles aumentado sen hierro en son anemia hemolitica y aumenta tambien bilirrubina conjugada
+
+trasnferrina es proteina en condiciones fisiologicas la concentracion de transferrina es muy akta
+
+la dieta con mas o menos hierro no modifica los valores de la transferrina o la capacidad de fijacion las variaciones en los niveles de trasnferrina reflejan el estado nitrucional de las proteinas la liberacion de la celula del huerrun unida a la transferrina es secuencial??
+
+la capacidad total de fijacion de hierro se obtiene mediante la siguiente formula para expresar correctamente 
+
+el exmaen de trasnferrrina no debe estar en un mayor de saturacion de 50% el exceso de hierro se deposita intracelularmente como ferritina, cada molecula de ferritina puede contener 4500 atomos de hierro, este examen no requiere ayunas, se utiliza tubo sin anticoagulantes o heparina de litio
+
+ferritina esta aumentada en COVID
+
+# tarea anemia
+hemolitica que parametro esta alterado
+
+porfiria esta es una enfefrmedad 300 familias en chile la tienen. la porfiria es cuando la gente no forma elgrupo hem
+
+la sintesis del grupo hem esta en mitocondria y citoplasma , se parte de glicina y succinil CoA 
+
+estas son enfermedadse de tipo genetico que estan ligadas a una de las enzimas de ls sintesis de grupo hem
+
+en el grupo hem faltante tambien falta el citocromo y muchos medicamentos tienen contraindicaciones 
+para medir se mide la porfirina en la sangre el hospital san juan de dios tiene stock del medicamento de la porfiria (hematina)
+
+
+
+
+
+
+
+
+
