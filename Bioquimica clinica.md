@@ -733,10 +733,185 @@ en el grupo hem faltante tambien falta el citocromo y muchos medicamentos tienen
 para medir se mide la porfirina en la sangre el hospital san juan de dios tiene stock del medicamento de la porfiria (hematina)
 
 
+# clase 7
 
+Los farmacos son efectivos entre un 25a 60% de los pacientes esto tiene que ver con la gran parte de farmacos que existen, en el año 2000 habian 2 millones de reacciones adversas y se incluyen 100.000 muertes. El costo de las reacciones adversas incluye al menos dos díasa de hospitalización con la consecuente disminución en la productividad de la persona afectada se ha estimado en Estados unidos que el año 2000 debido a las reacciones adversas a farmacos se perdieron anualmente  billones de dolares
 
+La dosis correcta para el paciente indicado la industria predice que todos los pacientes tienen la misma respuesta a cierto medicamento
 
+depende de la calidad del emdicamento, comedicacion, estado nutricional otras patologias y caracteristicas antropometricas. los factores geneticos afectan entre un 20 a un 90% de la variabilidad de la respuesta
 
+Todo medicamento que entra por via oral subcutanea e intramuscular debe pasar por una etaapa de absorción distribución y despues ir al higado y pasar de una fase 1 y 2 paraa ser mas soluble en agua y poder eliminarlo
 
+Para la via intravenosaa llega directamente al sistema circulatorio
+
+La farmacogenetica se define como el estudio de las variaciones en la respuesta de un medicamento con respecto a la carga genetica de las personnaasa
+
+En caaso de tener una variacion genetica que puede conducir a un polimorfismo un SNP puede generar en el alelo silvestre una enzima normal y metaboliza normalmente los medicamentos
+
+en caso de os alelos polimorficos por ejemplo una mutacion silente puede o no generar mutacion y otros tipos pueden generar enzimas inestables o alteraciones en la afinidad enizmatica, generan un metabolismo reducido o pueden formar otros metabolismo, los metabolizadores son pobres, en caso de un gen delecionado no hay ,rna y no hay proteina metabolizador nulo, genes duplicados o con mutaciones en el promotor pueden aumentaar la actividad enzimatica y aumentar el metabolismo. Los metabolizaadores nulos pueden explicar muchos de los efectos adversos, en caso de los genes duplicadosel farmaco puede que no vaya a funcionar
+
+Un ejemplo de la relevancia clinica en un antidepresivo triciclico nortriptilina es dependiente de la actividad de la enzima CYP2D6
+
+Los CYP2D6 presentan varios polimorfismos CYP2D6*3 delecion parcial, CYP2D6*5 delecion total del gen CYP2D6*2xN duplicación*
+
+Cuando un metabolizador pobre tiene menos enzima o no la tiene y necesitan entre 30 a 50 mg para tener el efecto deseado, Metabolizadores ultra rapidos necesitan 500 mg para obtener los mismos niveles plasmaticos
+
+Por lo tanto la dosis estandar de 150 mg no es apropiada para el grupo de MU no hay respuesta y los MP intoxicación 
+
+Las enzimas fases 2 las Glutation transferara son enizmas de la fase dos de la biotransformacion la mutacion de este gen corresponde a la mutante Null donde no se tiene la GSTM1 y para el humo del cigarrillo la CYP1A1genera un reactivo que se une al DNA y forma tumores
+
+Farmacogenetica en la practica clinica
+
+Clopidogrel es un profármaco que inhibe la agregacion plaquetaria este dene entrar al higado y debe generar el metabolito activo 
+
+El 50% del clopidogrel es un farmaco de administracion oral que se pierde en una carboxilación, polimorfismos en los genotipos de CYP2C19 aalteran la metabolizacion de este fármaco
+
+la farmacogenetica esta entrando a la clinica en la parte de este farmaco se pide genotipicacion de CYP2C19 que alerta al medico para cuando da metabolizador pobre para generar una terapia que no use el farmaco o que tenga un farmaco que no tenga profarmaco y que pase por este citocromo p450
+
+Coagulacion evitar perder sangre por heridas para esto desarrollamos sistema para la agregacion plaquetaria y coagular para despues sanar y desarmar el coagulo, la cascada de la coagulacion es una serie de reacciones en cadena en donde las proteinas son activadas con preseencia de calcio u otros para generar fibrina desde fibrinogeno
+
+Armand Quick fue el primero que saco un metodo para ver 
+
+el coagulo de fibrina es formado por un tapon plaquetario que se desarrolla 
+
+hemostasia primaria desde contraccion a tapon y hemostaacia secundaaria des tapon a coagulo de fibrina, luego se rompe en un proceso posterior llamado fibrinolisis
+
+TVP es una trombosis venosa profunda que viaja en las venasa y que puede impedir el flujjo de sangre a una parte de le extremiadada 
+elcoagulo viaja y se llama embolo y evita que haya intercambio de gases en el pul mon
+
+Factores de riesgo vaasacular venoso
+
+Edad avanzada inmunovilziacion cirugia, hay antecedentes familiares
+
+Tromboembolismo pulmonar TEP se diferencia de la trombosis venosa profunda se ve 
+
+Deficit de proteina C proteina S antritrombina Presenica de FV de laide,utacion de un factor genetico
+
+como se hace el estudio en el laboratorio 
+
+## Homeostacia primaria
+
+Tiempo de sangria estudio de plaquetaasa
+
+es el tiempo que demora entre la puncion hasta la coagulación Prueba de DUKE se punciona el lobunlo de la oreja a una profunididada de 3 mm con una parte de papel que solo sea para sequar la sangre, Prueba de Yvy se coloca eel esta es la manera fisiologica de como ver la parte de coagulacion, esto dice que hay prproblemas en la faraccion plaqitaria ambos tiempos en el paciente hay que preguntar si el paciente toma aspirina, cardioaspirina o clopidogrel. 
+
+Examenes que mas se piden en el laboraotorio, cascada de la coagulaacion, via intrinsica y extrinsica, cuales son los objetivos de la prueba de coagulacuon es reflejar en los ensayos de laboratorio el estaado de la funcion en los apciente in vivo se traducen los resultados en el riesgo o no de producir coagulos la muestra para toda cosa de coagulación debe ser en tubo tapa celeste, citrato para extraer la sangre se debe mantener la relación sangre anticoagulante reposo entre 15 a 30 minutos usar venas de extremidades superiores no de las manos, torniquete minimo aguja de 19 a 21 G mariposa aceptable evitar los catéteres , el transporte al laboratorio debe ser en hielo excepto para tiempo de protrombina TP y DVI
+
+Cuando el volumen es menor a 90% se rechaza, inspeccion por microcoagulos y en la hemolisis (por agitacion poco suave)
+
+examenes rutinarios
+
+Tiempo de protombina 
+
+Tiempo de la Tromboplastina parcial activaada
+
+cuanticicaion de dibrinogeno
+dimero d
+estudio de trombofilias estudios de especialidad.
+
+Tiempo de protrombina (TP o PT) Corresponde al tiempo en segundos para la formacion de un coagulo para la formacion de un coagulo de fibrina al agregarle trombopklastina tisular y una cantidaad optima de cloruro de calcio a una muestra de plasma, el tiempo de protombina evalua la via extrinseca de la coaglyaciuon agnre en contacto con tejido
+
+como se mide el tiempo de protrombina se mide agregando el reaactivo de tromboplastina en la combinacion con fosfolipidos al plasma citratado se mide el tiempo enecaaario para la formacion del coagulo al agregaar calcio.
+
+El reactivo de tromboplastina cambia, TP es el metodo de eleccipon para controlar el tratamiento anticoagulante oral (TACO)
+
+Algunos conceptos
+
+El termino tromboplastina se refiere al reaactivo que tiene factor tisular y fosfolipidps obtenidos de diveras fuentes las distintas tromboplasatinas dan distintos resultados 
+
+Para estandarizar se usa el ISI indice internacional de sensibilidad  este valor indica el grado de similitud del comportamiento de tromboplastina del reactivo utilizado respecto a un estandar humano internaccional. Si el reactivo se comporta exactamente igual al ghumano es bueno si es mayor el ISI a 1 o menor el reactivo es de mala calidaad
+
+como comparar los resultados de PT obtenidos en diferentes laboratorio scon iguales diferentes tromboplastinas, INR el interntational normalized ratio este calculo sale de la razon entre el tiempo en segundos de TP contra el control normal en segundos y esto elevaado a ISI EL INR ES EL QUE SE USA PARA INFORMAR ENTRE SISTEMAS DE SALUD, los valores de referencia son de entre unos 12 segundos y el INR tiene valores entre 0,8 y 1,2.
+
+Tp para control tratamiento anticoagulante oral con cumarinicos
+
+Objetivo terapeutico prolongaar el tiempo de protrombina medido en parametro calculadao por el laboratorio en basae al tiempo de protrooombina del paciente respecto a un control normal y considera la calidad del reactivo
+
+INR asignado, 
+
+Depende del riesgo tromboembolitico del paciente segun su patologia de acuedo a consensos vigentes  cambia en el tiempo segun la condicion clinica esto calcula el riesgo tromboembolico
+
+TACO
+UNa trombosis venosa profunda, arritmia tromboembolismo pulmonar 2-3 de INR
+
+sintrome antifosfolipidop con trombosis 3-3.5
+
+protesis valvular mitral mecanica antigua de 3-4 INR
+
+Expresa el numero de veces que esta prolongado el tiempo de protrombina en segundos respecto del control normal si el paciente toma el anticoagulante y el tiempo de protrombina lelga a 40 segundos y el control es 20 segundos INR 40/20=2,0 es decir el paciente demora el doble del tiempo del control normal en coagular
+
+en la actualidad existen sistemas para dosificar de TACO, en chile se comercializzan tres ROCHE siemens grupo BIos y Tecnigen tienen sugestor de dosis pero este es solo un calculo matematico por lo cual no esta especialmente recomendado
+
+Dosis AVK dosis semanal la dosis es una tableta de 4mg debe tomarse con agua el acenocumarol estos son complicados, son como los remedios de la abuela que se debe tomar un cuarto a cierta hora un dia y uno entero en otro por ejemplo. El metabolismo de AVK debe convertirse en un factor de coagulacion funcional que se va al ciclo de la vitamina K por gamma glutamil carboxilasa, la vitamina K reducida funciona como cofactor de ggamma glutamil carboxilasa lo que no permite que salgan factores de coagulacion funcionales
+
+la warafirna s y r junto con el acenocumarol inhiben la enzima que reduce la vitamina K 
+
+TACO Mantener al paciente el mayor tiempo posible en el rango terapeutico con laas menores complicaciones hemorragicas y tromboticas posibles 
+Indicadores de calidad son
+Tiempo en rango terapeutico mayor al 60% 
+INR en rango 50% en rango
+
+ejemplo estos indicadores son indicadores de riesgo de stroke o hemorragia.
+
+factores que incluyen la parte de los anticoagulantes 
+
+La restriccion de la vitamina K de la dieta como estrategia mientras aumenta la cantidad de las verduras verdes y damascos disminuye el INR riesgos de la automedicacion y del uso de las terapias complementarias 
+
+Hay varias hierbas que tienen efecto para inhibir o potenciar los anticoagulantes, 
+
+Melissa o san juan inhibe, manzanilla potencia, te verde inhibe  soya tambien y dahsen
+
+cannabis potencia el efecto 
+
+Interferentes automedicados
+
+te verde
+noni
+giingeng
+glucosamidas (osteoartrit)
+Ensure u otros suplementos alimenticios, Vitamina E 
+
+Interacciones medicamentosas los anticoagulantes orales tienen muchas interacciones fundamentalmente con antibioticos
+
+por ejemplo un paciente en TACO que requiere terapia antibiotica indicar el antibiotico necesario considerando ac clavulanico, sulfas macrolidos quinilona etc referir al paciente despues Para anticoagulantes solo se requiere del tiempo de protrombina ningun otro examen requerido
+
+La genetica tambien afecta todo esto, CYP1A2 y CYP2C9/c19 los acenocumarol se van metaabolizando por estos citocromos, en estos casos incluso las etnias importan en la farmacogenetica, VKORKC1 y CYPC9 polimorfismos afectan a la dosis de warfarina
+
+Ya no se requiere de toma de muestras venosas para medir PT en menos de un minuto se tiene el valor de INR estos son en genera buenos pero tienen una determinacion mas cara se evita puncion en un adulto mayor
+
+Tiempo de tromboplastina Parcial activada 
+TTPK es el tiempo en segundos necesario para la foramcion de un coagulo de fibrina al agregarle cloruro de calcio esto se mide para la deficiencia de faactores en la via intrinseca como en la hemofilia A y la B (FVIII y FIX respectivamente)
+
+Se usa para motorear la dosis de Heparina, se usa para diaagnosticar hemofilia tambien.
+
+Tambien se usa para pacientes hospitalizados se usa heparina y se monitore por TPPA
+
+## Cuantificacion de fibrinogeno
+
+en presencia de un exceso de trombina el fibrinogeno se transforma en fibrina el tiempo de formacion del coagulo es inveersamente proporcional a la concentraaacion de dibrinigoeno presente
+
+Los inhibidores de la coagulacion se miden en un examen para detectar inhibidores de tipo Lupus, el anticoagulante lupico es un anticueprom antifosfolipido dirighido contra variedaad de proteinas de union fosfolipidica como la protrombianque impode que el proceso de coagulaacion in vitro se desarrolle normalmente su presencia se pone de manifiesto por la prolongacion del TTPA y TP demora masa o menos en coagular?
+
+LOs venenos de la serpiente tienen coagulante 
+
+Estudio de la coagulacion, fibrinolisis, desarmar coagulos los hilos de fibrina para ver si se destruyen o no se debe ver si se destrullen 
+
+se determinan los productos de degradacion de fibrina PDF se ven por anticuerpos en ELISA, inmunohistoquimica nefelometria u otras, dimero D se usa para verlo el dimero D estabiliza los polimeros de fibrina, al ver esto se evalua si se degrada o no
+
+El dimero D se usa como valor predictivo negativo, osea como todo dimero D inferior a 500 ng/mg cutoff permite descartar el diagnositico de enfermedad venosa tromboembolica en aproximadamente el 95% de los pacientes en caso de probabilidad clinica baja o intermedia sin embargo como valor predictivo positivo es malo un resultado positivo no presenta especificidad alguna para este diagnostico en este caso se debe confirmar el diagnostico con Eco doppler.
+
+En caso de COVID19 una de laas cosas que se aumenta es el tiempo de protrombina y el dimero D mayor a 1mg/L es uno de los principales factores de malpronostico
+
+500ng/dl = 0,005mg/L
+
+Actualmente estos pacientes tienen peor pronostico por que la tormenta de citoquina afecta la cascada de coagulacion 
+
+VIDA MEDIA WARFARINA 96 HORAS
+
+TACO = tratamiento anticoagulante oral
+RVM = Recambio valvular Mitral
+Hematemesis = vomitos con sangre
+Melena = Heces con sangre
 
 
