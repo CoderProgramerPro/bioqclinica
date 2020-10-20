@@ -914,4 +914,181 @@ RVM = Recambio valvular Mitral
 Hematemesis = vomitos con sangre
 Melena = Heces con sangre
 
+# Clase 8 Hematología 
 
+## generalidades
+
+LOs globulos rojos hematies o eritrocitos son celulas ultra diferenciadas y tienen por funcion el transforte de la hemoglobina son anucleados y tienen cono principal funcion llevar oxigeno
+
+Leucocitos se clasifican en 3 sub-poblaciones PMN linfocitos y monocitos
+
+Polimorfonucleares sonfagocitosis o ingestion de sustancias extrañas
+
+linfocitos mediante la inmunidad generan anticuerpos o actuan en celulas
+
+monocitos principalmente fagocitan 
+
+plaquetas tienen como funcion esencial prevenir la extravasacion de sangre del sistema capilar son partes de una celula que gigante que eclosiono hematopoyesis el proceso de generar mas globulos rojos
+
+medula osea y su estructura, se encuentra en la epifisis y espacios existentes entre las trabeculas de los huesos esponjosos consiste en una variedad de celulas sanguineas y sus precursores
+
+la medula oseaesta formada por adipocitos que con el paso de los años reemplaza la medula roja
+
+en los jovenes representa el 25% de las celulas de la medula osea
+
+se ubica en la diafisis de la pinga
+
+Medula osea roja o aciva esta formada por todas las celulas sanguineas nucleadas en niños se ubica en todos los huesos y en jovenes en los huesos planos
+
+en el proaceso hematopoyetico las celulas maduras salen a traves de compartimientos
+
+la celula stem cell lleva origen a dos lineas celulares, la linea linfoide que tienen los linfocitos, y la mieloide que se divide en 2 diferentes precursoresque llevan a los eritrocitos, megacariocitos (dan origen a las plaquetas) y tambien a los neutrofilos eosinofilos, basofilos, monocitos
+
+la maduracion en la medula osea requiere de algunos sustratos y adivitos para que se produzca el proceso, cuando estas sustancias noestan presentes se generarn patologias carecientes o se encuentra en exceso. Su accion se presenta en los procesos de proliferacion maduracion y funcion
+
+estas sustancias son, vitamina b12, fierra, acido folico vitamina b6 y factores de crecimiento que son glicoproteinas secretadas por celulas medulares
+
+la linea linfoide se divide por accion de IL7 que luego con señal de IL3 e IL4 diferencian las celulas en linfocitos T y B respectivamente
+
+IL3 diferencia la celula madre pluripotencial en linea mieloide el cual por IL3 lleva a los granulocitos o neutrofilos, eosinofilos basofilo o plaquetas
+
+GM CSF diferencia al precursor en monocitos y macrofagos
+
+Eritropoyetina principal hormona reguladora d ela proliferacion de los precursores eritroides y su diferenciacion a eritrocitos
+
+sintetizada en riñon e higado en menor parte
+
+estimula la formacion de colonias eritroides
+
+actua sobre la proliferacion de los eritroblastos 
+
+incrementa cantidad de reticulocitos circulantes
+
+disminuye el tiempo depaso de eritroblasto a reticuocito
+
+ejete cierto efecto sobre megacariopoyesis en conjunto con IL3 y el factor estumulador de colonias granulocitica monocitas actuan para incremetar la formacion de colonias pluripotenciales y eripoyeticas
+
+la trombopoyetina es el principal factor que regula la megacariopoyesis se sintetiza en higado y riñon produce la proliferacion de CFU meg Y megacarioblastos interviene en la fase maduraiva tanto en la reduplcicacion del nucleo como en la fomracion de proplaquetas tiene efecto de pluripoyetina en las otras lineas celulares
+
+La vida media de los globulor rojos es de 120 dias y de globulos granulocitos 6-8 horas linfocitos duran años y plaquetas duran 7 a 10 días
+
+morfologia de los eritrocitos disco biconcavo
+
+viene de la celula stem cell y de la celula pluripotencial pro-eritoblasto, 
+eritroblasto basofilo 
+eritroblasto policromatico
+Ortocromatico
+reticulocito
+Eritrocito
+
+Los eritrocitos normociticos y normocronicos tienen tamaño y contentido de hemoglobina normal tienen un diametro de 7-7.5 um vidamedia y depresion central de 1/3 de su superficie color rojo o rosado
+
+ indices eritrocitarios o constantes hematologias teamaño el volumen corpuscular medio en femtolitros corresponde al volumen de cada eritrocito se calcula con el
+ 
+ (hematocrito * 100)/recuento eritrocitos(10)  va desde 82.5 +-5 femtolitros
+ 
+ concentracion de hemoglobina corpuscular media en gramos por litro que es la concentracion emdiua de hemoglobina por litro de una masa de eritrocitos que se calcula dividiendo la hemoglobina del paciente por el hematocrito
+ 
+ el valor medio de 32.5 +-2.5 g/l
+ 
+ Hemoglobina corpuscular media (pg)
+ 
+ indica la hemoglobina contenida en un eritrocito y se expresa en picogramos se saca hemoglobina dividido por el total de eritroctios valor promedio de 30.5pg
+ 
+ de que sirven estas constantes de estas 3 el VCM es el mas relevante porque permite subdivir las anemias en microcitias normociticas y macrociticas (todas estas segun el tamaño del globulo rojo)
+ 
+ Anemias microciticas permiten detectar de forma precoz la deficiencia de hierro y diferenciarla con el rasgo beta talasamico las anemias cronicas sideroblasticas y envenamiento por plomo valor referencial menor de 80 fl en las anemias microcitas esta disminuido VCM (menor o igual a 80fl) HCL(15pg) y CHCM (menor o igual a 31 g/L)
+
+
+## morfologia serie roja
+
+definicion variacion en la forma normal en la forma se puede ver en PB (sangre periferica):
+
+Esferocitos, ovalocitos drepanocitos codocitos estomatocitos equinocitos acantocitos esquizocitos(trozos de globulos) dacriocitos (ninguna forma)
+
+Eliptocitos son elipticos por polarizacion de la hemoglobina se ve en ovalocitosis hereditaria talasemia(falla en la hemoglobina) deficiencia de hierro, anemias mieloptisica (fisica) megaloblastica (por falta de vitamina b12, acido folico)
+
+Los esquistocitos se ven en procesos de destruccion de eritrocitos sindrome hemolitico uremico
+
+coagulacion intravascular diseminada
+
+anemia hemolitica autoinmune
+
+
+
+drepanocitos o celulas falciformes
+
+Tienen forma de hoz o media luna con los extremos espiculados se observan en anemia falciforme
+
+Codocitos target cell son caracteristicas son de escaso grosor con aumento de colesterol en la membrana y con aparente contenracion central y periferica de la hemoglobina con una zona intermedia que asimila un target
+
+hemoglobinopatias
+
+talasemias
+
+enferemdades bostructuca de higado
+
+pacientes sin esplenocitos
+
+y pacientes sin fiero
+
+
+
+Macrocitosis caracteristicas aumento tamaño normal se ve en anemia megaloblastica po deficiencia de vitamina B12 y acido folico
+
+macrocitosi se evidenci apor cifras en l volumen corpuscular medio por encima de los 98fl
+
+
+microcitosis disminucion del tamaño normal en los eritrocitos diametro inferor a 6 um irregulares con citoplasma mas azulado (basofilo) se ven en anemias por deficiencia de hierro anemia hemolitica y en algunas talasemias
+
+
+esferocitos que son cuando el globulo rojo no tiene forma de disco biconcavo y se vuelve bola que es facil de destruir sin halo claro esferocitosis hereditaria anemaia hemolitica autoinmunitaria postransfucional quemaduras hemoglobinas inestables
+
+## morfologia de leucocitos 
+
+estas celulas estan de 4 a 10 mil por mm3 
+
+existen los 5 globulos blancos
+
+neutrofilos
+linfocitos
+monocitos eosinofilos basofilos
+
+serie granulocitica mieloblasto de tamaño 15 a 20 micrones de diametro y con cromatina laxa nucleolos evidentes granulacion corresponden a lisosomas tienen alta cantidad de mieloperoxidadsa su cantidad de medula osea es de 1% 
+
+promielocito es de tamaño de 16 a 25 micrones de diametro con citoplasma menos basofilo y abundante granulacion azurofila el nucleo tiene cromatina densa tiene concentracion de 5% en a medula y no se haya en la circulacion en condiciones normales
+
+mielocitos aparecen la granulacion especifica y desaparecen los nicleolos
+
+mielocitos mas abundantes son los neutrofilos sineto 20% de toda la sangre
+
+metamielocito junvenil mucha granulacion cromatina densa conenctracion en medual osea de 15 a 20% y nunca esta en circulacion
+
+basciliforme celula mas pequeña de 10 a 15 micrones la escotadura del nucleo es pronuncidad su concentracion en la medula osea alcanza 30%del total de la ceularidad 
+
+segmentado o polimorfonuclear 
+
+que son la mayor cantidad de celuilas en circulacion son segmentadas
+
+serie monocitica el agranulocito
+
+monoblasto(similar a mieloblastico)
+promonoicito sin granulacion
+
+monocito y macrofago que son derivados del monocito que tienen ubicacion histica poseen nucleo redodndo o ligeramente lobulado con abundante psudopodos o prolongaciones 
+
+tipos de hitiocitos
+
+* hitiocito o macrofago de los tejidos en general 
+
+* Osteoclasto o macrofago especifico del tejido oseo
+
+* Microglia o macrofago del tejido nervioso
+
+* Celulas de Kupffer o macrofago del tejido hepatico
+
+MINUTO 36 EN LA GRABACION
+
+## laboratorio
+
+## Alteraciones serie roja y blanca
