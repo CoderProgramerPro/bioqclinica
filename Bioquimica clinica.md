@@ -1087,8 +1087,260 @@ tipos de hitiocitos
 
 * Celulas de Kupffer o macrofago del tejido hepatico
 
-MINUTO 36 EN LA GRABACION
+Serie linofide
+
+Linfoblastos
+
+dificil de diferencial del mieloblasto y monoblasto solo se pueden diferenciar por tecnicas citoquimicas, inmunofenotipo
+
+a diferencia de otras celulas maduran en la medula osea y el bazo
+
 
 ## laboratorio
 
+Como se evalua en el laboratorio
+
+En el laboratorio esto se evalua con examenes caracteristicos
+
+Examenes hematologicos 
+
+hemograma
+
+mielograma
+
+tinciones especiales
+
+perfil hematologico
+
+velocidad de sedimentacion 
+
+hematocrito
+
+reticulocito
+
+monotest (paul bunnell)
+
+tubo tapa lila EDTA anticoagulante
+
+TODO LO QUE EVALUA CELULAS Y DNA ES EN TUBO LILA MORFOLOGÏA CeLULAR ES EN tAPA LILA taMBIEN
+
+hemograma
+
+recuento de los eritrocitos, leucocitos, plaquetas, reticulocitos Formula diferencial determinacion de hemoglobina y hematocrito
+
+autoanalizador hematologicos automatizados tienen como principio una suspension de celulas por una celdilla y van pasando celulas por una corriente electrica y las celulas individuales que pasan generan una resistencia y se cuenta las celulas individuales
+
+EL numerode los pulsos indica la cantidad de particulas que pasan y el tamaño del pulso habla sobre su volumen
+
+como realiza el potencial medicante la impedancia se determina el volumen condictividad y la granulocidad de la celula (citometro)
+
+Pruebas se hacen en el hemograma
+ 
+Recuentos: Eritrocitos leucocitos Hemoglobina Plaquetas VCM BPM ADE, reticulocitos 
+
+Calculode Hematocrito, HCM CHCM, 
+
+diferencial % de celulas segun el total de celulas sanguineas Linfocitos MOnocitos Neutrofilos Basofilos Eosinofilos, reticulocitos tambien si existen
+
+COmo se hace se hace un frotis con el proposito de tener una buena visualizacion de los elementos figurados con microscopia optica, tincion hematologica may grunwald, aua destilada giemsa
+
+Plaquetas Satelitismo en neutrofilos, aglutinadas y grandes plaquetas interrumpen el analisis
+
+Microhematocrito proposito medicion del volumen de globulos rojos en relacion al volumen plasmático mediatne centrifugacion por 5 minutos a 10000 a 12000 RPM pero cuanto en G'?? su resultado se expresa en %
+
+El recuento de reticulocitos son el metodo directo para evaluar el grado de produccion de globulos rojos funcionamiento medular y respuesta a los tratamientos Azul de Cresil Brillante tiñe el RNA residual precipitado en los globulos rojos inmaduros
+
+Su resultado se expresa en %, estos resultados dan de recuperacion de anemia 
+
+VHS  Eritrosedimentacion
+
+Esta prueba mide la proporcion en la cual los eritrocitos se agrupan en sangre con anticoagulante en 1 hora, esta prueba se basa en que los procesos inflamatorios y necroticos causan alteraciones en las proteinas plasmaticas restultando en la agregacion de los globulos rojos esta es de 15 mm/h en hombres 20 mm/h en mujeres
+
+Se encuentra elevada en mieloma linfomas y cancer metastatico
+
+Los valores se toman segun el metodo, westergren y wintrobe tiene  valores distintos que van de 0-10mm/h para hombres y 0-4
+
+
 ## Alteraciones serie roja y blanca
+
+alteracion hematologica
+
+anemia leucemia
+
+pueden ser morfologicas
+
+respuesta medular (donde se produce)
+
+aporte nutricional
+
+sitio de produccion 
+
+anemaias morfologicas normociticas normocronicas
+
+VCM 90+-5fl CHCM:34% neoplastias nefropatia cronicas inhibicion medular por farmacos o toxinas en niños VCM va de 97-70
+
+Anemias normociticas hipocronicas
+
+VCM 90 CHCM <31%
+
+vcm normal hasta 78
+
+causado por anemias secundarias o sideroblasticcas
+
+Anemias microciticas hipocronicas
+
+causas anemia ferroprivas anemias secundarias
+
+anemias macrociticas normocromicas
+
+anemias falta b12 acido folico
+
+hepatopatias 
+
+alteracion en la sintesis de DNA en los procesos neoplasticos
+
+Clasificacion de la respuesta medular
+Recuento absoluto de reticulocitos
+
+anemias regenerativas el recuento absoluto de reticulocitos mayor 150mil recuento porcentuaj mayor a 4% Anemias Hemoliticas o anemias por perdidas importantes de sangre
+
+Anemias aregenerativas
+
+recuento menor a 150mil recuento porcentual menor a 2% anemias por daño o falla medular, secundaria a procesos neoplasticos, anemias carenciales sin tratamiento, anemias secundarias a procesos infecciosos o inflamatorios en su fase activa
+
+Anemias segun sitio de produccion
+
+Premedulares no se producen porque falta vitamina b12 medula osea sana arregenerativas buena respuesta al tratamiento conalteracion morfologica
+
+Anemias medulares
+
+Anemia aplastica stem cell dañada, mielosipticas medula osea infiltrada o invalida, medula osea no puede formar precursores
+
+Anemias postmedulares Periddas importantes hemolisis por enfermedades autoinmunes o medio no isotonico
+
+Macrositosis segun sea la cifra de reticulocitos
+
+poiquilocitosis va a depender de la causa de la hemolisis medula osea como organo productor de celulas esta sana
+
+Paciente con anemia hemolitica
+
+Parametros alterados:ANemia post medular, K, ferremia, ferritina bili total y bili no conjugada 
+hay medula sana
+
+una anemia ferropenica es premedular
+
+Estan alterados ferremia y ferritina, globulos rojos microciticos hipocromicos VCM, VHCM disminuida medula osea sana
+
+# Alteraciones malignas de los leucocitos
+
+Leucemia Mieloide cronica
+
+Leucemia mieloide aguda
+
+leucemia linfoide cronica
+
+leucemia linfoide aguda
+
+LMC se describe en 1845 se creia que era infecciosa y el hecho que las celulas leucemicas se originan en la medula se descubrio en 1870 por newman
+
+1973 se demuestra que el cromosoma filadelfia es producto de la translocacion reciproca entre los brazos largos de los cromosomas 9 y 22 t(9:22)(q34;q11)
+
+la translocacion produce una fusion del gen Bcr breakpoint cluster region
+
+sobre el oncogen Abl del cromosoma 9 formando elgen fusionado Bcr-Abl, la enzima de 210 kDa actua liberando los controles de prolifeacion de la celula e inhibe apoptosis 
+
+es un desorden de celulas troncales y un aumento de la linea mieloide sino que afecta a la linea eritroide y a las plaquetas produce una marcada hiperplasia mieloide en la medula osea
+
+el diagnositoc se basa en la deteccion del cromosoma filadelfia
+
+L aincidencia es de 1 por 100000
+
+150 a 200 casos anuales y mueren 70 al año
+
+edad maxima de incidencia esta entre 40 y 60 años aunque el 10% de los caso ocurre en pacientes de 5 a 20 años de edad, el pronostico es mejor en niños que en adultos, la edad promedio de LMC ph+ es de 55-60 años
+
+LMC tiene 3 fases clinicas distintas Fase cronica, acelerada y blastica
+
+En el momento del diagnositco inical la mayoria esta en la fase cronica de la enfermedad
+
+Leucemia mieloide cronica
+
+se ven los blastos que son celulas inmaduras con escaso citoplasma con nucleo laxo y presencia de nucleolos
+
+los recuentos de leucocitos, presencia de blastos basofilos recuento de plaquetas varian dependiendo del estadio celularidad medular (aumenta siempre)
+
+Tratamiento de LMC el unico tratamiento curativo es la fase cronica de LMC correspondde a transplante alogenico de medula pero poco pacientes son candidatos para este tratamineto poque se debe ser menor de 40años
+
+EL tratamientose hace con imatimib que es inhibidor especifico de la tirosina quinasa resultatnte de la traslocacion entre 9 y 22
+
+los resultados alentadores en pacientes en fase avanzada de la enfermedad llevaron a probarlo en pacientes en fase cronica logrando una respuesta citogenica normal con bajos efectos adversos
+
+EL inhibidor es selectivo e inhibe la accion de la tirosina quinasa
+
+Resistencia a imatinib la valiabilidad de la respuesta clinica a un agente anticancerigeno se debe tanto a factores del hospedero y como a factores relacionados con le tumor
+
+Resistencia de esta es por muta<cionen el dominio Abl quinasa.
+
+Los nuveles de BCRAbl y pronostico
+
+Falla: 95% filadelfia positivo en los 6 meses de tratamiento y 35% en 12 mese
+
+respuseta suboptima: 35-95% a 6 meses respuesta hematologia incompleta a 3 mese  1-35% a 12 meses
+
+Respuesta optima 3 meses disminuye 1-2 log transcritos para BcrAbl <35% ph+ a los 12 meses Ph+
+
+sindromes linfoproliferativos 
+
+Proliferacion clonal de linfocitos que afecta tejod linfaico forma cronica leucemia linfomatosa
+
+puede ser de estirpe B o T
+
+nivel de atencion primario lleva a identificar sospechoso despues llevan a hematologo cirujano internista (aca se pide nbiopsia para confirmar)
+
+30% de los linfomas son de Hodkin tasa chilena de linfoma 0,8  tasa de mortalidad 0,2 por ciemil habitatntes peak etarios 15 a 30 años apartir de os 50 años 
+
+alta tasa de curacion
+
+Etiologia agregacion familiar aumento riesgo a 99% en gemelos
+
+Factores geneticos y ambientales
+
+Virus Epsten-barr aumento en 4 veces en pacientes con antecedestes de mononucleosis infecciosa
+
+HIV: aumento de 8veces en casos positivos
+
+Celulas tipicas Celulas de ReedSternberg que son 3 acumuladas en 1 celula
+
+Clinica adenopatiassuperficiales no dolorosas en el cuello 70% 
+
+mediastinica disnea dolor dos homoptisis otraslocalizacion abdominal axilar
+
+Clinica sintomas B fiebre perdida de peso y /o sudoracion nocturna 
+
+Fibre de Pel-ebstein
+
+Esplenomegalia hepatomegalia
+
+compromiso extraganglionar infecciones por alteracion de inmunidad celulas 
+
+Estudio
+
+Diagnostico Biopsia ganglionar y o extra ganglionar con inmunohistoquimica examenes de etapificacion biopsia de medula osea 
+
+Estudio adicionales Hemograma VHS albumina serica
+
+pruebas hepaticas funcion renal Ca-P LDH HIV beta 2microglobulina
+
+indice de hasenclever albumina baja, anemia en hombres principalmente edad 45 años estadio IV leucocitosis
+
+Depende de la etapa puede ser Quimioterapia o Radio terapia, ambas con regularidad
+
+Subpoblaciones linfocitarias en la infeccion por el virus VIH 
+
+Factores involucrados en progresion VIH incluyen factores virales como del hospedero el equilibrio determina el ritmo de progresion de la infeccion en cada paciente
+
+Entre los factores del virus son fenotipo capacidad de infetar y capacidad de hiperactivar s.inmune
+
+Entre los factores del hospeero es fundamental la respuesta inmunitaria de tipo celula para controlar la replicacion viral y capacidad homoestaticas
+
+es estudo de las subpoblaciones tiene doble importancia citometria de flijo mide CD4+ en las particulas suspendidas en un liquido de forma individual al interferir con una fuente de luz 
