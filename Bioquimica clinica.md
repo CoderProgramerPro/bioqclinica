@@ -1344,3 +1344,143 @@ Entre los factores del virus son fenotipo capacidad de infetar y capacidad de hi
 Entre los factores del hospeero es fundamental la respuesta inmunitaria de tipo celula para controlar la replicacion viral y capacidad homoestaticas
 
 es estudo de las subpoblaciones tiene doble importancia citometria de flijo mide CD4+ en las particulas suspendidas en un liquido de forma individual al interferir con una fuente de luz 
+
+# CLase 9
+
+Serología y uroanalisis
+
+uroscopio era una botella incluso existia una rueda de uroscopia que unia el color de la orina con situaciones patologicas.
+
+colores y turbidez daba situaciones patologicas distintas
+
+Iluminación Para identificar el color debian tener buena fuente de luz y hacen hipotesis diagnostica para esa situacion, Diabetes sabor dulce, ictericia con el color cafe enferemedades renales orina roja o espumosa
+
+el examen de orina completa es util, un buen examen de orina puede ser como una biopsia diaria
+
+la mejor muestra de orina es aquella que tiene 2 horas de retencion, antes se creia que era la primera orina de la mañana
+
+para poder efectuar un analisis representativo es necesawrio tener en cuenta ciertos aspectos de importancia, la muestra de orina se recogerá siempre en un recipiente limpio no necesariamente esteril (solo para cultivos)
+
+la muestra debe ser examinada idealmente 30 a 60 minutos despues de tomarse, si esto no es posible se debe mantener a 4 °c
+
+la orina se centrifuga la muestra homogenizada se le hace un analisis fisico,, quimico que incluye el color aspecto proteinas ph densidad nitritos glucosa urobilinogeno microalbuminuria
+
+el sedimento se usa para analisis 
+
+analisis quimico la tira reactiva se ven cambios de color, es semicuantitativo
+
+los analisis pueden ser de forma automatizada o manual, existe tecnologia que son lectores automatizados pueden leer de 300-500 hasta 1000 muestras por hora,
+los parametros bioquimicos que se ven en la tira son glucosa, proteina y ph
+
+los colores pueden decir que esta pasando, puede ser blanca o con cristales en caso de piuria roja en caso de hematura, cafe en ictericia etc
+
+recomendaciones para monitorizar proteinuria, se usa una tira reactiva, el indice proteina/creatinina se mide cuando el indice albumina/creatinina es mayor a 500 mg/dl
+
+la medicion de la proteinurea se refiere a conc. de proteinas mayor a 300mg 
+
+Evaluacion de la funcion renal en el diabletico DM1 a partir de 5 años de diagnostico, DM2 despuest del año de diagnostico
+
+el analisis quimico se ve pH, nitritos (que confirman la presencia de ciertos organismos en la orina)
+
+ glucusuria normalmente en orina no hay glucosa, cuando hay glucosa en la orina hay algo anormal
+ 
+ los cuerpos cetonicos se miden tambien
+ 
+ los cuerpos cetonicos que se miden en mayoria es el acido b acetil
+ 
+ el metodode rothera ocupa sales que cambian de color en presencia de cuerpos cetonicos
+ 
+ para el sedimento se separa el sobrenadante, se deja un sobrenadantepequeño y se saca una pequeña porcion luego se va a examinar en microscopio 10X y 40X lo que permitira identificar y cuantificar distintos elementos morfologicos
+ 
+ Una alicuota del sedimento puede tener cristales, bacterias, celualas epiteliales, leucocitos
+ 
+ los cristales dependen de muchos factores, los cristales se ven en varios desordenes, los cristales de acido urico se observan en orinas acidas tiene forma de rombo y polarizan la luz viendose de color, cistina son hexagonales, fosfato de amoniomagnesio se ve en orinas basicas o en infecciones, cristales de oxalato de calcio son generalmente romboides con una x al centro
+ 
+ la roina completa muestra 3 tipos de muestras epiteliales, son epitelio plano epitelio transicional epitelio tubular, normalmente se ven las descamativa
+ 
+ la hematuria se define cuando hay mas de 5 eritrocitos por campo se puede originar en cualquier segmento del tracto urinario cuando se presenta dolor es producto de la negrolitasis 
+ 
+ leucocitos responden a una reaccion inflamatoria y vana a estar aumentados, sobre 10, 5 o 500 formando placas de pus en la orina que son indicadores de una infeccion urinaria
+ 
+ los cilindos son aglomeraciones de proteinas que se forman en los tubulos que son parte de una proiteina y no son extraños, cuando los cilindros estan formados por eritrocitos y restos de ellos son diagnostico de globulonefritis aguda
+ 
+ los cilidnros de globulos blancos se forman por leucocitos, estan en pielonefritis agudas, los cilindros granulosos y cilindros cereaos estos procesos se pueden hacer de forma manual o automatizada
+ 
+ los sistemas automatizados permiten dar muchas muestras en poco tiempo y requieren de personal altamente entrenado, los autoanalizadores pueden ser ocmo citometria, microscopia u otros
+ 
+ el analisis automatizado del sedimento se utiliza autoreconocimiento de particulas tecnologia que autoclasifica y cuantifica particulas
+ 
+ Serologia el laboratorio en bioquimica clinica, cuando usamos estas tecnicas son en ciertos casos, cuando los metodos tradicionales no son utiles, cuando los agentes son no cultivables, de crecimiento lento cuando tenemos
+ 
+ las enfermedades de transmision sexual afectan muchas personas y se puede diagnosticar de manera facil
+ 
+ sifilis viene de un pastor syphilus inspirado en un poema que trata del castigo de un psator porque levanto altares prohibidos en la montaña, 
+ 
+ sifilis viene de la bacteria teponemea pallidum, tiene forma de tirabuzon, es capaz de traspasar la mucosa indemne la lesion que es el chancro no duele ni pica,
+ en un principio la enfermedad era mortal, hoy en dia puede ser congenita , practicamente tiene transmision exclusiva por contacto sexual inoculacion accidental para quienes manipulan y trabajan con elementos cortopunzantes
+ 
+ el treponema pallidum no es cultivable, se combina el cuadro clinico, factores epidemiologicos de riesgo y resultados de los analisis, microscopia de campo oscuro donde se observa la bacteria
+ 
+ las pruebas que seusan son no treponemicas, se buscan los anticuerpos anti material lipidico lliberado por celulas del gospedero dañadas y material lipoproteico de la bacterea
+ 
+ siempre realizar con la misma tecnica, las pruebas son VDRL (reactina que si es positiva hay aglutinacion), hay una prueba de elisa pero esta puede salir positiva por contacto previo, VDRL muestra una infeccion activa.
+ 
+ la sifilis se trata con penicilina, si se ven multiples infecciones se debe hacer una puncion lumbar para ver si treponema atraviesa la barrera encefalo raquidea 
+ 
+ la sifilis se detecta tambien por pruebas treponemicas, se detectan anticuerpos IgG e IgM anti treponema 
+ 
+ en chile se realiza el examen de VDRL a mujeres embarazadas desde los 50 estrategia que se ha optimizados atraves del tiempo mediante su incoporracion en normas tecnias pasando de un VDRL en 1976 a dos en la normativa del 1980 
+ 
+ la sifilis ha aumentado en chile en los ultimos 5 años aumentando 35.2 casos por 100mil habitatntes a nivel nacional los hombres tienen 64.2% segun distribucion por edad el 59,4 de los casos notificados se lleva entre los 20 a los 39 años
+ 
+GOnorrea, esta enfermedad es causada por un diplococo Neisseria gonorrhoeae infecta distintos tipos de mucosas, solo duele en la uretra masculina, en el cuello uterino de la mujer se ubica, pudiendo encontrarse en el recto, conjuntiba, faringe u otros
+
+las complicaciones de la infeccion en el hombre es posible encontrara abseoss prostaticos en lo general la gonorrea afecta mas a los hombres, en el periodo de enero a junio de 2019 se notificaron 1108 casos de goorrea alcanzando ua tasas de 6.3 cada cienmil habitantes
+
+el incremento de los casos de gonorrea dic eque hay un aumento de otras enferemedades que se estan transmitiendo, como vih hepatitis, que comparten el mismo mecanismo de transmision, y tienen un tratamiento relativamente barato
+
+VIH es un retrovirus que infecta los CD4 llegando en etapa A asintomatica y liegp b y c finalmente a la muerte, baja el titulo de cd4, los individuos que tengan una cantidad de VIH indetectable son intransmisibles, las infecciones tienen muchos sintomas, el cuadro clinco es grande
+
+EN algunas estadisticas hay 36.9 millones de presonas que viven ocn VIH y no esta controlada, teniamos la meta de 90-90-90, la cual era tener 90% de las personas diagnosticadas, 90%tratadas y 90% indetectable al 2030 esta 95.-95-95
+
+la epidemiologialos estudios revelan que los mecanimos que favorecen la rapida diseminacion del virus son relaciones sexuales o contacto bucogenital con una persona, tambien por onjetos cortopunznates
+
+entre las personas con VIH cerca de 40 y pico suprimen la carga viral a indetectable
+
+informacion basica sobre la profilaxis prexposicion es una combinacion de 2 medicamentos
+
+el diagnostico se hace con metodos de cuartageneracion se miden antigenos del virus, tambien se ve por la quimioluminicencia de tercera generacion que ve cantidades de virus mucho mas pequeñas
+
+test rapidos tienen alta capacidad de detectar
+
+test rapido VIH  y pruebas serologicas 
+
+el VIH es confidencial y voluntario, hitos del proceso hay consentimiento informado toma de muestra proesamiento confirmacion de examen prueba de identidad entrega de los resultados al usuario /paciente 
+
+la transmision vertical ha sido controlada (la congenita) la evidencia respalda el uso de preservativos que el uso de los preservativos protege eficazmente contra el VIH y reduce el riesgo de infeccion por gonorrea.
+
+El virus del papiloma humano esta relacionado con cancer del cuello uterino y verrugas genitales, 
+
+la hepatitis B y C la hepatitis A se transmite en alimentos que puedan estan contaminantes
+
+La hepatitis B es de tipo universal su vigilancia y la notificaion es de caracter inmediato
+
+La hepatitis C puede ser transmitida no solo por elementos cortopunzantes sino tambien por tatuaje o manicure
+
+GES el periodo ventana es de 3 a 4 meses
+
+GES involucran a VIH desde 2005 VHC y VHB desde 2010 
+
+HTLV1 y 2 en Chile el virus linfotropico T humano tipo I se clasifica en la familia de los retroviridae basandose en la estructura del genoma la transmision vertical es por la leche materna se transmite por compartir jeringas 
+
+FOrmas clinicas la parapesia espasticas que se desmieliniza la medula espinal y la sustancia blanca del SNC leucemia subahuda de cruso agresivo
+
+Chagas se transmite por un parasito "vinchuca o chupon" esta especie pica y defeca, en sus heces estan los huevos y cuando se rasca la herida entra al torrente sanguineo los huevos
+
+La enfermedad de chagas su agente biologico es un protozoo 
+
+Chagas constituye uno de los principales probleas de salud publica en diversos paises latinoamericanos, se ve mas en las zonas rurales y periurbanas, hay casos cronicos sintomaticos, chagas cronico asintomatico, chagas congenito 
+
+80% de los casos congenitos seran asintomaticos y 100% de los casos congenitos con controlados
+
+angelocanepa@hotmail.com
