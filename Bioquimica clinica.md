@@ -1484,3 +1484,201 @@ Chagas constituye uno de los principales probleas de salud publica en diversos p
 80% de los casos congenitos seran asintomaticos y 100% de los casos congenitos con controlados
 
 angelocanepa@hotmail.com
+
+
+# Clase 10
+
+En la actualidad las tecnicas de electroquimioluminiscencia quimioluminicencia fluorescencia y en ELISA son las tecnicas que se usan mas 
+
+ECLIA
+
+en el 95% de los lab se usa ECLIA, las hormonas tiroideas se miden siempre por etimiologia en chile es una glandula blanda (tiroides)
+los problemas de la tiroides son generalmente visibkes
+Esto el control de la produccion de las hormonas tiroideas, cuando baja la conc, hay mas secrecion de TSH se activa tambien TRH 
+
+El aumento de peso y cansancio frecuente son relacionados con las hormonas tiroideas, influyen en la maduracion el desarrollo del tejiudo en produccion de energia en funciones mentales, cardiacas, respiratoriasm sexuales y reproductivasa
+
+Cuando se rompe el equilibrio se ven afectada cualquiera de estas relaciones 
+
+El yodo se esta incluyendo en la sal en varios paises el objetivo era eliminar el deficit de yodo
+
+el chile en los 70 habia 25% de personas con bocio endemico
+
+
+la encuesta nacional de salud 20% de la poblacion tiene la TSH aumentada
+
+debido al alto consumo de sal vino en contra de yodar la sal, el exceso de yodo produce un daño en la tiroideas y daño inmunologico
+
+Un grupo de investigadores esta dedicado a discutir una nueva politica de yodacion 
+
+hipotiroidismo disminucion de la concentracion de hormonars tiroideas, esto esta en la disminucion de hormonas en la glandula tiroides, esto puede ocurrir por perdida del tejido glandular secundario a inflamacion cirujia e irradacion o or las alteraciones en la sintesis hormonalhipotiroidismo secundario hay tumores pequeños al nivel de la hipofisis o hipotalamo y la cosa se complica 
+
+las manifestaciones del hipotiroidismo va al crecimiento y maduracion celular, esto puede llevar a deeficit que lleva a hipotiroidismo congenito que es cuando la tiroides fetal no funciona el recien nacido tiene poca actividad, duerme mucho come poco
+si el deficit no se repone ocurre retardo en el desarrollo fisico y mental irreversible y puede conducir al cuadro llamado cretinismo
+
+Para ver esto se saca una muestra de talon y se busca la t3 y t4 libre
+
+puesto que el diagnositico temprano se puede tratar relativamente facil
+
+En los adultos los sintomas suelen ser inespecificos y pueden progresar poco a poco, la piel se seca hay una sensacion de inflamacion en los parpados y las extremidades inferiores, puede haber aumento de peso érp mp es un sintoma necesariamente
+
+El estreñimiento y mala digestion son frecuentes hay debilidad muscular las manifestafciones al sistema nerviosos pueden ser de adormecimiento en las manos como agudeza auditiva, dificultades con la vision en la oscuridad hay disminucion de las funciones mentales con lentitud del pensamiento, falta de iniciativam, trastornos de concentracion y de memoria, la depresion es muy frecuente
+
+como vemos es un cuadro caracterizado por disminucionny enlentecimiento de las actividades diarias
+
+el hipotiroidismo primario es mas frecuente es decir el causado por defecto, el hipotiroidismo primario (glandula), hipotiroidismo secundario(tumor) hipotiroidismo terciario que escomo la segunda pero en el el hipotalamo
+
+diagnostico de hipotiroidismo se ven t3 y t4, se ven bajos niveles de t4 y tsh (primario) en el hipotiroidismo central (tanto hormonas como TSH estan disminuidas en hipofisis) existen la tiroxina que la dosis son ajustadas para cada paciente por el medico con el objetivo de alivbiar las manifestaciones cilincas y de normalizar las concentracones de hormonas en la sangre 
+
+es muy importante tomar el medicamento en la dosis prescrita hay que tomar agua o masticarla dependiendo
+
+cualquier aumento o disminucion de peso importante va a generar un cambio en la dosis efectiva
+ 
+ TIROIDITIS CRONICA AUTOINMUNE
+ 
+ En las llamadas enfermedades autoinmunes el ataque se direge a celulas propias en este caso en las celulas de la tiroides
+ 
+ las tiroiditis autouinmunes hay presencia contra enzimas necesarias en el proceso de sintesis hormonal, la enfermedad de hashimoto hay un bociodifuso y no doloroso ymanifestaciones de hipotiroidismo
+ 
+ no duele, el cuello se va aumentando 
+ para el diagnostico se debe usar t3 y anticuerpos, anti tiroglobulina y anti perosxidasa, no existe tratamiento para la tiroiditis sino el aporte de la hormonaa tiroidea sintetica para restablecer la funcion normal de los organos deprivados de ella
+ 
+ Anticuerpos antitiroideos estos se deberian pedir cuando tiene un bocio difuso, aumento de bocio paciiente con tsh ligeramente elevado
+ 
+ Hipotiroidismo congenito se toma en una muestra capilar 
+ 
+ Hipotiroidismo congenito se puede producir por embriogenesis o por 
+ 
+ la incidencia de HTC en chile es de aproximadamente 1 en 3163 de recien nacidos, la fenil cetonuria o hiperfenilalaninemias, producen retraso mental, la incidencia de PKU es de 1:21000 y HFA es de 1:14000
+ 
+ la produccion excesiva de hormonas en hipertiroidismo produccion excesiva como en graves
+ 
+ Hipertiroidismo los sinotmas son mas llamativos, va a ser sensacion de calor, perdida de peso, aumento de apetito, irritabilidad, cansancio, poca tolerancia al ejerficio taquicardia
+ 
+ Tambien ocurren diarrea y alteraciones menstruales, En casos de larga duracion se pueden presentar complicaciones cardiovasculares y osteoporosis.
+ 
+ el mayor porcentaje de etiologia es la enfermedad de graves, se caracteriza por bocio, hay exostalmia, se sale el globo ocular de su ubicacion, la enfermedad de graves es una enfermedad de tipo autoinmune, son anticuerpos antitiroideos, aca los anticuerpos son contra el receptor de TSH y se activa la glandula, donde se comienza a producir T3 y T4, es una enfermedad 
+ 
+ en general el tratamiento es administrar yodo radioactivo para destruir la glandula, este esta contraindicado en mujeres embarazadas en periodo de lactancia, el hipotiroidismo secundario se destruye la tiroides y se administran pastillas
+ 
+ 
+ cancer de tiroides, la glandula puede estar con una protuberancia, un nodulo, varios, o noduilos en ambos hemisferios de la tiroides, los pacientes pueden llegar con sintomas como la presencia de un nodulo de consistencia firme que crece rapidamente cambios asociados como disfonia y o la constatacion de ganglios aumentados de tamaño junto con el nodulo o bien ser diagnosticados de manera incidental.
+ 
+ el cancer de tiroides debe darse un examen fisico
+ 
+ carcinoma papilar aproximada 8 de cada 10 son papilares son crecimiento lento
+ 
+ carnimoa folicular
+ 
+ anaplastico y medular son los mas grabes, la cirugia se realiza un tiroidectomia total en la que se extraen los nodulos t se analizan en el mismop pabellon, yodo radiactivo al control de otros tipos de cancer el de tiroides no requiere quimioterapia en su lugar se utiliza un tratamiento con yodo radiactivo que es mas rapido y menos agresivo para los pacientes a lña ves es efectivo, se vive sin tiroides pero
+ 
+ el control del tratamiento se realiza con tsh t4 libre y anticuerpos
+ 
+ ### Hormonas hipofisiarias 
+ 
+ LH
+ 
+FSH
+
+Prolactina 
+
+la hormona luteinizante o luteotropina LH  
+
+estas se miden por un tema de fertilidad, la naturaleza de estas hormonas es episodica y pulsatil de sus secrecion diaria, son predictivas de la respuesta ovarica, 
+
+prolactina es un peptido que se ve en las personas que estan em,barazadas y esta regulado por factores hipotalamicos el principal de los cuales es dopamina, la prolactina inhibe su propia liberacion y la de GnRH con lo cual inhibe la secrecion de FSH y LH
+
+La prolactina en laboratorio tiene variaciones estacionales, menstruales y circadiano tiene un patron pulsatil con ciclos cada 95 minutos la toma de muestra para estandarizar por el problema del patron pulsatil se ha establecido a las 10:00 horas medico solicita prolactina cuando sospecha de un tumor hipofisiario asociado a tac de cerebro, se toma cuando hay liquido en las glandulas mamarias sin estar en lactancia, lo cual puede indicar un tumor de hipofisis
+
+la hormona libre es la que tiene efecto, las de estradiol y progesterona, estradiol es estrogenmo gonadal ovarico importante circula unbido a albumina, y 25% a SHBG la concentracion en plasma presenta un maximo en la ovulacion
+
+progesterona tiene una concentracion bjaa esta en anovulacion
+
+La testosterona 50% va unida con alta afinidad a SHGB con un 45% unida a albomina y 5% libre, siendo este ultimo quien tiene la accion hormonal
+
+la proteina enlazante de los esteroides sexuales (SHGb) alteraciones en la concentracion altera la concentracion de hormona libre presente y afecta el efecto fisiologico hay diferencias por sexo
+se ven aumento en enf hepatica hipertiroidismo trast alimentarios uso de estrogenos dismoiniucion de porduccion,. se ve disminuida en las contrarias 
+
+gonadotrofina corionica tiene subunidades alpha y betason similares a LH y FSH 
+
+el aumento de la gonadotrofina corionica se ve en 8 dias de la ovulacion doblando sus valores cada 2 a 4 dias hasta alcanzar un maximo, tambien se pueden aumentar, los temas de fertilidad se ven usando estas hormonas
+
+la infertilidad en 2009 la oms junto con un conglomerado de organizaciones internacionales reconoce a la infertilidad conmo una enfermedad del sistema reproductiva que es la incapacidad de lograra un embarazo clinico despues de 12 meses de sexo sin proteccion
+
+la valoraacion de la fertilidad se hace por el minsal
+
+10 a 15% de las parejas son esteriles 40- 45% la causa es de la mujer
+
+35a 40 es a los hombres 
+
+20 a 30% de los casos ambos son infertiles a los 8 años de matrimonio permanece infertil el 4% de las parejas
+
+la fertilidad optima es a los 18 años bajo los 40 años disminuye la fertilidad y adelante pasa la menopausiam, el envejecimiento de hombre tambien baja la probabilidad de embarazo. si bien lso hombres producen espermios a tardia edad tambien pero estos disminuyen en calidad
+
+hay anomalias en el huso meiotico y la edad de la mujer
+
+las anomalias del huso meiotico se ven 17 % en 20-25 y 79 de 40 en adelante
+
+la exploraciond e la infertilidad espermiograma y recuperacion de espermatozoides moviles, exploracion ginecologica completa
+
+confirmacion de permeabilidad tubarica almenos debe haber un tubo donde pasen lso ovulos
+
+determinaciones homronales en fase folicular temprana dia 3 a 5 idealmetnte , serologia de ambos conyuges 
+
+se evalua de manera anatomica el utero y el ovario, la funcion ovarica y los conteos, 
+
+en hombres es espermiograma y hormonas sexuales, 
+
+Amenorrea por disfuncion ovarica  se debe a alteraciones geneticas irradicaion de ovarios infeccion de ovariosm, drogas o autoinmunidad en todos los casos el estradiol esta bajo y no se produce FSH 
+
+amenorrea por deregulacion de las gonadotropinas esta puede radicar en el hipotalamo o en la hipofisi la amenorrea hipotalamica puede tener su origen en deficit congenito de GnRH uso de anticonceptivos orales, anorexia nerviosa, ejercicio fisico intenso, trastornos psiquicos, en todas las situaciones la secrecion de GnRH no hay ovulacion
+
+Amenorreo puede tener su causa en hiperprolactinemia el patron hormonal son niveles bajos de LH FSH y altos de prolactina, tuimor de hipofisi
+
+anovulacion cuando los valores de LH FSH y prolactina son inexistentes
+
+exploraqcion de la infertilidad masculina
+
+azoospermia, oligozoospermia asociada escaso volumen de semen atrofia testicular ginecomastia (tetas de hombre) diminucion de la libido, impotencia historia de la criptorquidia, cuando no baja el testiculo al nacimiento, queda en el abdomen, mayor temperatura en el testiculo y lleva a oligozoospermia o azoospermia 
+
+endocriopatias conocidas : hipotiroidismo etiologia de la infertilidad masculina, origen testicular hipoandrogenismo hipergonadotropo las causas mas frecuentes son el sindrome de klinefelter (XXY, esteril) como causa congenita y las alteraciones testiculares que son asocidadas
+
+origen hipotalamo hipofisis hipoandrogenismo hipogonadotropo 
+
+disfuncion de las celulas de sertoli 
+
+resistencia a androgenos congenita que hay leve aumento de LH FSH y testosterona pero no se reacciona a estas
+
+El laboratorio puede ser en induccion de la ovulacion y fecundacion asistida
+
+Induccion de ovulacion
+
+En el primer grupo pacientes con amenorrea asociada a hipogonadismo engloba a amenorreas hipotalamicas
+
+grupo 2 
+
+grupo 3
+
+se dan farmacos dependiendo de la causa, algunos de estos son citrato de clomifeno se une a los receptores estrogenicos de la hipofisi produce un aumento de LH y FSH  que a su vez estimulan el ovario
+
+LH FSH y gonadotropina estimulo del ovario
+
+analogos GnRH estimulando la hiposisis, se puede producir desensibilizacion de los receptores, la mayoria de los centros usan los primeros 2 
+
+luego viene el seguimiento de laboratorio midiendo los niveles de las hormonas y se ven las imagenes 
+
+La hiperestimulacion ovarica no solo se comporta con una mayor incidencia de embarazos multiples 
+
+una de las complicacioenns mas conocidas de las tecnicas de reproduccion asistida es el sindrome de hiperestumulacion ovarica 
+
+factores pronosticos (mal pronostico)
+
+se asumen edad menor a 35 resrva orarica normal, respuesta multifolicular rem mayor o iguala 5 millones duracion de la infertilidad menor a 3 años menos de 3 ciclos previos de ECO+IA 
+
+mal pronostico son los contrarios o antecedentes de cirugia pelvica endometriosis entre otros- edad mayor o igual a 40 años y mas de 5 años de infertilidad
+
+lo que se debe monitorizar es el tamaño de los ovulos, 3 o mas foliculos con un diametro de mas de 17 mm y niveles de estradiol superiores a 1000 pg/ml la aspiracion de los foliculos se realiza 3 a 36 horas despues de la inyeccion de la HCG y 48 a 72 horas despues se transfieren los embriones al utero de la paciente se administran doiss adicionales de HcG en los dias 2 y 5 despues para suplementar la fase luteinica
+
+Caso clinico 
+ 
+ 
