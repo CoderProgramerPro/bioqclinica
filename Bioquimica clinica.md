@@ -1682,3 +1682,94 @@ lo que se debe monitorizar es el tamaño de los ovulos, 3 o mas foliculos con un
 Caso clinico 
  
  
+ # Clase 11
+
+Marcadores tumorales (Diapo 28 en adelante)
+
+La tasa de mortalidad es alta en cancer de mama, 15.6 por cada 100 mil mujeres
+
+Los marcadores tumorales son CEA (antigeno carcinoembionario), CA 15.3
+CEA: es un complejo proteina polisacadrido que estan en cancer de colon gastrointestinal, pancreas, cancer de mama, tambien se ve en fumadores y cirrosis elevada especificidad entre benigno y maligno
+
+Ca 15.3 Antigeno de carbohidrato asociado a cancer de mama con utilidad de seguimiento clinico de pacientes tiene especificdidad mala y sensibilidiada regular
+
+Her2/neu detecta sobreexpresion de proteinas son mal pronostico se ve sobreexpresion entre el 15al 30% de los canceres lo muestra
+
+en los valores de marcador tumoral tambien se deben poner otros examenes, como creatinina , GOT GPT billirrubina total, si no estan normales puede ser un falso positivo
+
+Basta con que uno de los marcadores tumorales este aumentado para confirmar el diagnostico, y sobretodo para ver el pronostico  del cancer
+
+Sospecha de Neoplasia mamaria localmente avanzada o metastasica, se extraen mamas y ganglios axilares, si se saca completamente el tumor los marcadores tumorales van a llevar a un valor de negatividad de los marcadores. para evaluar metastasis se deben realizar examenes de imagenes (Escaner, Gammagrafias oseas y tomografia por emision de positrones muestra los nucleos activos de celulas tumorales)
+
+Estos marcadores son buenos para pronostico, estadio, diagnostico precoz de recidiva, diagnostico de enfermedad avanzadam, monitorizacion terapeutica, factor predictivo de respuesta
+
+Cancer de ovarios Ca 125 y He 4
+
+El cancer de ovario en general es un hallazgo frecuente, masa abdominal asintomatica, incidental 70% de la masa esta en los ovarios, 5-10% de la poblacion cerca de 13-20% son malignos
+
+Ca125 es una glicoproteina de elevado peso que esta en los tejidos endocervicos, fondovaginal y mesotelios (pleura y otros), se ve como una prueba post operatoria de cancer de ovarios, en el seguimiento del tratamiento con quimioterapia ya para decision de una segunda intervencion quirurgica, Ca126 es uno de los marcadores con un numero grande de falsos positivos
+
+He-4 es una proteina acida serica y que se relaciona a sobreexpresion en cancer de ovario, si el paciente tiene insuficiencia renal no se puede usar, es mas especifico
+
+Ca 19.9 este es para carcinomas ovaricos mucinosos
+
+Se usa un algoritmo ROMA que evalua la malignidad del cancer de ovario que se ve va en las cantidades de HE4 y CA125 en mujeres, predice la malignidad, esto mejora la sensibilidad en 93%
+
+LO MAS IMPORTANTE DE LOS MARCADORES TUMORALES ES EL CONTROL EVOLUTIVO; NO EL DIAGNOSTICO
+
+se considera que hay respuesta a tratamiento cuando los niveles de MT disminuyen almenos 50% de los valores basales en almenos 2 determinaciones seriadas
+
+A la paciente se le indica quimioterapia de rescate, para esto se afecta medula osea, razon por la que se pide hemograma 
+
+CA 125 es un buen marcador de cancer ovarico, pero puede estar elevado en enfermedades benignas ginecologicas, He4 presetna una sensibilidad equivalente a CA 125 
+
+Patologias tumorales de hombre, cancer de prostata y testicular
+
+Cancer testicular, tumor que se manifiesta por aumento de volumen testituclar firme sin signos inflamatorios
+
+la incidencia mundial es de 1.5 por 100 hombres, factores de riesgo para el desarrollo de cancer testicular 
+
+CRIPTORQUIDIA (cuando no bajan los testiculos)}
+antecedentes de cancer testicular 
+
+antecedentes familiares 
+
+consumo de marihuana 
+
+La epidemiologia es alta entre los 15 y 44 años sobretodo en chile
+
+MARCADORES Tumorales para tumores germinales
+
+la alfafetoproteina es una glicoproteina simple de 70 Kda muy similar a la albumina, sirve para circulacion en el feto despues de dos años no se detecta. este sirve como preoperatorio
+
+El cancer de prostata
+
+algunos de los marcadores tumorales son H-Beta, AFP CEA (neoplasia)
+
+Antigeno prostatico PSA es una enzima perteneciente a la familia de las kalicreinas glandulares, el antigeno prostatico se muestra como marcador de adenocarcinoma de prostata, no es especifico, ya que se detectan niveles elevados en hiperplasias benignas de prostata y prostatitis (se debe hacer un examen de orina y un urocultivo para ver pancreatitis)
+
+la forma de hacer diagnostico ecografia transrectal y biopsia prostatica
+
+se toman muestras de las zonas de la prostata, el PSA puede se para screening pero siempre asociado a tracto rectal o ecografica transrectal, PSA puede dar falsos negativos o falsos positivos.
+
+El cancer de estomago no presenta altas tasas  en todo el mundo, uno de los pocos marcadores tumorales que han evaluados para screening tamizaje de cancer gastrico en poblacion japonesa es el pepsinogeno, tiene sensibilidad de 77% yespecificidad de 73%
+
+Se evaluan los niveles de pepsinogeno I y II ya que reflejan el estado funcional y morfologico de la mucosa, (pepsinogeno I se ve en la normalidad)
+
+MTs Pepsinogenop, CEA, AFP (mejor para cancer hepatico, se muestra muy elevado en tumor), Ca19.9(mejor para cancer de pancreaas, tambien se encuentra en cancer de ovarios o hepatico), Tag72
+si un marcador sube del 20% puede ser recidiva
+
+Cancer de tiroides, es un tipo histologico mas prevalente, se usa radioyodo para ver seguimiento
+
+MT para cancer papilar de tiroides Tiroglobulina, la medicion de Tg ha sido usada como marcador de recidiva tumoral, teniendo mucho valor su determinacion estimulada, 
+
+SIEMPRE QUE SE MIDE TIROGLOBULINA SE DEBE BUSCAR anticuerpos ANTI TIROGLOBULINA, que pueden interferir 
+
+
+Marcadores  tumorales para cancer medular de tiroides, calcitonina, los carcinomas son indiferenciados por eso se ve calcitonina, y en algunos casos se secrete CEA
+
+cuando los marcadores estan muuuuy altos se ve alta probabilidad de cancer con un mal pronostico, sirven para el control evolutivo, estos marcadores pueden hacer variaciones, los valores de los MT cambian en distintas enfermedades, imagenes mas adelante
+
+![mts](https://raw.githubusercontent.com/CoderProgramerPro/bioqclinica/master/Imagenes%20Bioquimica%20Clinica/Clase%2011/MTs.PNG)
+
+![Mt](https://raw.githubusercontent.com/CoderProgramerPro/bioqclinica/master/Imagenes%20Bioquimica%20Clinica/Clase%2011/MTs%20e%20interferencias.PNG)
